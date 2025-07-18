@@ -15,6 +15,7 @@
 ---
 
 ## 📁 Estructura del Proyecto
+```
 Pokedex/
 ├── index.html
 ├── assets/
@@ -22,6 +23,7 @@ Pokedex/
 │   │   └── style.css
 │   └── js/
 │       └── app.js
+```
 
 ---
 
