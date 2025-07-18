@@ -18,10 +18,10 @@
 Pokedex/
 ├── index.html
 ├── assets/
-│ ├── css/
-│ │ └── style.css
-│ └── js/
-│ └── app.js
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── app.js
 
 ---
 
