@@ -1,0 +1,18 @@
+/* * {
+  outline: 1px solid red;
+} */
+
+.search-container {
+  max-width: 30rem;
+  margin-inline: auto;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
