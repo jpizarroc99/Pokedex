@@ -43,7 +43,7 @@ Este proyecto fue desarrollado con fines educativos, con el objetivo de:
 
 - Mejorar la organización y limpieza del código fuente.
 - Aplicar principios de desarrollo web moderno.
-- Potenciar el trabajo en equipo y la colaboración mediante control de versiones (Git/GitHub).
+
 
 ---
 
